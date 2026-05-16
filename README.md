@@ -11,5 +11,4 @@ branching, merging, and reverting in Git.
 
 ## Status
 
-Project is under active development.
 Profile feature is in progress.
